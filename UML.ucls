@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Game" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/Game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1204" y="659"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="GameState" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/GameState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1211" y="172"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="GemDefender" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/GemDefender.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1040" y="515"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Menu" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/Menu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="976" y="228"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="core.GameCore" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/core/GameCore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="740" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="drawing.GameScreen" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/drawing/GameScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="515" y="543"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="drawing.PaneForRenderImageViews" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/drawing/PaneForRenderImageViews.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="525" y="410"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="enemies.Enemy" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/enemies/Enemy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="128" y="243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="enemies.Cave" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/enemies/Cave.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="305" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="enemies.Crap" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/enemies/Crap.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="329" y="232"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="enemies.Rock" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/enemies/Rock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="322" y="358"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="enemies.Slime" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/enemies/Slime.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="289" y="522"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="enemies.Worm" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/enemies/Worm.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="114" y="520"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="input.InputUtility" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/input/InputUtility.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="612" y="815"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="logic.Tower" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/Tower.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="117" y="1011"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="logic.ArrowTower" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/ArrowTower.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="334" y="721"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="logic.FireTower" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/FireTower.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="335" y="974"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="logic.IceTower" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/IceTower.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="338" y="1243"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="logic.SniperTower" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/SniperTower.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="112" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="logic.Bullet" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/Bullet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="527" y="29"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="logic.Arrow" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/Arrow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="743" y="97"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="logic.FireBullet" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/FireBullet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="525" y="247"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="logic.IceBullet" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/IceBullet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="992" y="23"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="logic.SniperBullet" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/SniperBullet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="763" y="-64"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="logic.CollidableEntity" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/CollidableEntity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="47" y="-59"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="logic.Entity" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/Entity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-51" y="529"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="logic.Field" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/Field.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-79" y="1023"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="logic.GameLogic" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/GameLogic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="555" y="1174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="logic.Gem" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/logic/Gem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="340" y="-116"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="menu.BottomMenu" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/menu/BottomMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="911" y="1381"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="menu.TowerMenu" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/menu/TowerMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="749" y="1322"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="32" language="java" name="sharedObject.IRenderable" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/sharedObject/IRenderable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-69" y="807"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="33" language="java" name="sharedObject.RenderableHolder" project="2110215_Project_2017_GEM_DEFENDER" 
+    file="/2110215_Project_2017_GEM_DEFENDER/src/sharedObject/RenderableHolder.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="930" y="982"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="34">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="51">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
